@@ -19,9 +19,7 @@ function App() {
         <button onClick={onClickMinus} className="minus">
           - Minus
         </button>
-        <button onClick={onClickPlus} className="plus">
-          Plus +
-        </button>
+       
       </div>
     </div>
   );
